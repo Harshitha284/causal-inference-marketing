@@ -5,7 +5,7 @@ Measures the TRUE causal impact of marketing campaigns
 using Bayesian Structural Time Series counterfactual modeling.
 
 ## Live Demo
-https://YOUR-LIVE-URL-HERE.streamlit.app
+https://causal-inference-marketing-xhs3ogjhbkyltusscafkvp.streamlit.app/
 
 ## Tech Stack
 Python, Streamlit, Pandas, Scikit-learn, Statsmodels
